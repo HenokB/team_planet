@@ -1,4 +1,4 @@
-# team_planet
+# Team_planet
 
 ### Contributors: 
  1. Shekhar Chaudhary 
